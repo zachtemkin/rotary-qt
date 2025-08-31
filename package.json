@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "push": "cp *.py /Volumes/CIRCUITPY",
+    "push-lib": "cp -r lib /Volumes/CIRCUITPY",
+    "push-res": "cp -r resources /Volumes/CIRCUITPY",
+    "push-settings": "cp settings.toml /Volumes/CIRCUITPY"
+  }
+}
